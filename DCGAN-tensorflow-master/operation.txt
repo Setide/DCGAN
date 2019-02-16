@@ -1,0 +1,1 @@
+python main.py --input_height 96 --output_height 48 --dataset faces --crop True --train True --epoch 10
